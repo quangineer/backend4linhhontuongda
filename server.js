@@ -12,7 +12,7 @@ app.use(cors());
 
 //create an URI to connect with mongoDB:
 // const URI = "mongodb://127.0.0.1:27017/FE"; //locally: cai nay phai lam theo ong y
-const URI = "mongodb+srv://nguyenq25:abedp0ZJv9KHOO4y@hoangquannguyen01.s3hxsq9.mongodb.net//hoangquannguyen-300371379";
+const URI = "mongodb+srv://nguyenq25:abedp0ZJv9KHOO4y@hoangquannguyen01.s3hxsq9.mongodb.net/hoangquannguyen-300371379";
 
 //connect with mongoDB from this backend:
 mongoose
